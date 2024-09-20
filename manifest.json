@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-echarts",
+	"name": "echarts for obsidian",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Render echarts in obsidian.",
+	"author": "Lang",
+	"authorUrl": "https://obsidian.md",
+	
+	"isDesktopOnly": false
+}
