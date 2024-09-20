@@ -6,6 +6,6 @@
 	"description": "Render echarts in obsidian.",
 	"author": "Lang",
 	"authorUrl": "https://obsidian.md",
-	
+	"main": "main.js",
 	"isDesktopOnly": false
 }
